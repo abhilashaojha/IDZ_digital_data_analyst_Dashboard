@@ -20,4 +20,4 @@ Columns present:
 
 Procedure of cleaning, preprocessing and making the dashboard:
 
-<video src="https://user-images.githubusercontent.com/77577111/180655268-71982ba3-4ba0-45da-944f-316c0a7958c3.mp4" width=480 height=270>
+<video src="https://user-images.githubusercontent.com/77577111/180655268-71982ba3-4ba0-45da-944f-316c0a7958c3.mp4" width=720 height=540>
