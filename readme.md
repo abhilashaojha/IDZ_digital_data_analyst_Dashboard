@@ -16,12 +16,12 @@ Link to the dataset:
 Description of the dataset:
 
 
-https://user-images.githubusercontent.com/77577111/180659315-62a8a205-f03d-4871-bc9b-fd77dac1aa36.mp4
-
 
 Columns present:
 
 
 Procedure of cleaning, preprocessing and making the dashboard:
 
-<video src="https://user-images.githubusercontent.com/77577111/180655268-71982ba3-4ba0-45da-944f-316c0a7958c3.mp4" width=720 height=540>
+
+https://user-images.githubusercontent.com/77577111/180659383-3f3cf9c1-4a60-45ca-804d-5fbe8cfe9b0f.mp4
+
