@@ -10,6 +10,9 @@ https://www.microsoft.com/store/productId/9NTXR16HNW1T
 
 Link to the dataset:
 
+
+
+
 Description of the dataset:
 
 Columns present:
@@ -17,4 +20,4 @@ Columns present:
 
 Procedure of cleaning, preprocessing and making the dashboard:
 
-<video src="https://github.com/abhilashaojha/IDZ_digital_data_analyst_Dashboard/blob/main/imgs/dashboard.mp4?raw=true" width=480 height=270>
+https://user-images.githubusercontent.com/77577111/180655268-71982ba3-4ba0-45da-944f-316c0a7958c3.mp4
