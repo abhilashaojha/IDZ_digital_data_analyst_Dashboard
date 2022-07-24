@@ -9,4 +9,4 @@ Columns present:
 
 Procedure of cleaning, preprocessing and making the dashboard:
 
-<video src="https://i.imgur.com/rRJBo60.mp4" width=480 height=270>
+<img src="https://i.imgur.com/rRJBo60.mp4" width=480 height=270>
