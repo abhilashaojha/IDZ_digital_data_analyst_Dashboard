@@ -83,6 +83,13 @@ Then the columns, `First Name` and `Last Name` were deleted.
                     40  |  1                   |                  36  |   1
                     38  |  0                   +                  36  |   0
                    Total: 224                  |                Total: 219
+ 
+ 
+ | Married | Single |
+|:---: |:---: |
+|<table><th>No. of People</th> <th>No. of Children</th></table> | <table><th>No. of People</th> <th>No. of Children</th></table> <tr> <td>33</td> <td>5</td> <td>35</td> <td>5</td> </tr> 
+
+ 
 
 5. A photographer makes the lowest wage of any occupation, at $3581.53.
 6. There are 502 males and 481 females overall in the dataset, respectively.
