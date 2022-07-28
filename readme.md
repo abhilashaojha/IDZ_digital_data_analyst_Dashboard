@@ -64,25 +64,25 @@ Name =  [First Name]&" "&[Last Name]
 Then the columns, `First Name` and `Last Name` were deleted.
 * An `Index` column was also added. 
  
- ### <span style="font-family: 'Segoe Print';">Insights from the dashboard:
+ ### <span style="font-family: 'Segoe Print';"> :memo: Insights from the dashboard:
 *** 
  https://user-images.githubusercontent.com/77577111/180659383-3f3cf9c1-4a60-45ca-804d-5fbe8cfe9b0f.mp4
  
  <br />
  
-1. A female graphic designer by profession, Myra Grant earns the highest pay of $10000.
-2. Male and female average salaries are $5340.86 and $5229.66, respectively.
-3. The mechanic has the highest average wage, at $7047.
+1. A female graphic designer by profession, Myra Grant earns the highest pay of $10000. :raising_hand:
+2. Male and female average salaries are $5340.86 and $5229.66, respectively. :dollar:
+3. The mechanic has the highest average wage, at $7047. :wrench:
 4. There are 224 married and 219 single individuals in the sample overall. Among them,
     distribution of number of Children is given below:
  
-| Married | Single |
+| Married :couple:| Single :relaxed:|
 |:---: |:---: |
-|<table> <th>No. of People</th> <th>No. of Children</th> <tr>  <td>33</td> <td>5</td> </tr> <tr>  <td>36</td> <td>4</td> </tr> <tr>  <td>39</td> <td>3</td> </tr> <tr>  <td>38</td> <td>2</td> </tr> <tr>  <td>40</td> <td>1</td> </tr> <tr>  <td>38</td> <td>0</td> </tr> <tr> <td> Total: 224 </td> <td></td> </table> | <table> <th>No. of People</th> <th>No. of Children</th> <tr> <td>35</td> <td>5</td> </tr>  <tr> <td>37</td> <td>4</td> </tr> <tr> <td>40</td> <td>3</td> </tr> <tr> <td>35</td> <td>2</td> </tr> <tr> <td>36</td> <td>1</td> </tr> <tr> <td>36</td> <td>0</td> </tr> <tr> <td>Total: 219</td> <td></td>  </table> | 
+|<table> <th>No. of People :walking:</th> <th>No. of Children :baby:</th> <tr>  <td>33</td> <td>5</td> </tr> <tr>  <td>36</td> <td>4</td> </tr> <tr>  <td>39</td> <td>3</td> </tr> <tr>  <td>38</td> <td>2</td> </tr> <tr>  <td>40</td> <td>1</td> </tr> <tr>  <td>38</td> <td>0</td> </tr> <tr> <td> Total: 224 </td> <td></td> </table> | <table> <th>No. of People :walking:</th> <th>No. of Children :baby:</th> <tr> <td>35</td> <td>5</td> </tr>  <tr> <td>37</td> <td>4</td> </tr> <tr> <td>40</td> <td>3</td> </tr> <tr> <td>35</td> <td>2</td> </tr> <tr> <td>36</td> <td>1</td> </tr> <tr> <td>36</td> <td>0</td> </tr> <tr> <td>Total: 219</td> <td></td>  </table> | 
 
-5. A photographer makes the lowest wage of any occupation, at $3581.53.
-6. There are 502 males and 481 females overall in the dataset, respectively.
-7. There are 227 single and 199 married individuals in the 24 to 43 age range. The job with the highest pay in that age range is firefighter, at $8042.
+5. A photographer makes the lowest wage of any occupation, at $3581.53. :camera:
+6. There are 502 males and 481 females overall in the dataset, respectively. :man: :woman:
+7. There are 227 single and 199 married individuals in the 24 to 43 age range. The job with the highest pay in that age range is firefighter, at $8042. :fire_engine:
 
 ### <span style="font-family: 'Segoe Print';">References:
 *** 
