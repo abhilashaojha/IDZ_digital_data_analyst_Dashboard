@@ -1,6 +1,6 @@
 # <span style="font-family: 'Segoe Print';">**INTERACTIVE DASHBOARD:** <img align="center" width="120" height="75" src="https://user-images.githubusercontent.com/77577111/181069134-614976f4-1503-4b36-91b1-13459d362a8f.png">
  
-Hi, I have made this dashboard using `Power BI Desktop`.
+Hi, I have made this dashboard using `Power BI Desktop`. :nerd_face:
 
 > You can install Power BI Desktop from the Official Microsoft store for free or click the link below:
 https://www.microsoft.com/store/productId/9NTXR16HNW1T
