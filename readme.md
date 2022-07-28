@@ -67,6 +67,7 @@ Then the columns, `First Name` and `Last Name` were deleted.
  ### <span style="font-family: 'Segoe Print';">Insights from the dashboard:
 *** 
  https://user-images.githubusercontent.com/77577111/180659383-3f3cf9c1-4a60-45ca-804d-5fbe8cfe9b0f.mp4
+ <br />
 
 1. A female graphic designer by profession, Myra Grant earns the highest pay of $10000.
 2. Male and female average salaries are $5340.86 and $5229.66, respectively.
