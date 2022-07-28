@@ -15,13 +15,13 @@ https://www.microsoft.com/store/productId/9NTXR16HNW1T
  * Various data sources are supported by Power BI. Data can be input by reading straight from a database, webpage, or structured files like CSV, XML, and JSON.
 
  * Power BI provides wide range applications other than just for creating dashboards.
- - - ***Power Query:*** Used to search, access, and transform data sources
- - - ***Power Pivot:*** Used in data modelling for in-memory analytics
- - - ***Power View:*** Analyze, visualize and display data as an interactive data visualization using Power View
- - - ***Power Map:*** Brings data to life with interactive geographical visualization
- - - ***Power  BI  Service:*** Share  data  views  and  workbooks  which  are  refresh-able  from  on-premises and cloud-based data sources
- - - ***Power BI Q&A:*** Ask questions and get immediate answers with natural language query
- - - ***Data  Management  Gateway:*** By  using  this  component  you get  periodic  data  refreshers, expose tables and view data feeds.
+   - ***Power Query:*** Used to search, access, and transform data sources
+   - ***Power Pivot:*** Used in data modelling for in-memory analytics
+   - ***Power View:*** Analyze, visualize and display data as an interactive data visualization using Power View
+   - ***Power Map:*** Brings data to life with interactive geographical visualization
+   - ***Power  BI  Service:*** Share  data  views  and  workbooks  which  are  refresh-able  from  on-premises and cloud-based data sources
+   - ***Power BI Q&A:*** Ask questions and get immediate answers with natural language query
+   - ***Data  Management  Gateway:*** By  using  this  component  you get  periodic  data  refreshers, expose tables and view data feeds.
 
 ### <span style="font-family: 'Segoe Print';">Access to the dataset: 
 ***
@@ -73,23 +73,10 @@ Then the columns, `First Name` and `Last Name` were deleted.
 3. The mechanic has the highest average wage, at $7047.
 4. There are 224 married and 219 single individuals in the sample overall. Among them,
     distribution of number of Children is given below:
-
-                    Married                    |                   Single
-       number of people | no. of children      +    number of people  | no. of children
-                    33  |  5                   |                  35  |   5
-                    36  |  4                   +                  37  |   4
-                    39  |  3                   |                  40  |   3
-                    38  |  2                   +                  35  |   2
-                    40  |  1                   |                  36  |   1
-                    38  |  0                   +                  36  |   0
-                   Total: 224                  |                Total: 219
  
- 
- | Married | Single |
+| Married | Single |
 |:---: |:---: |
-|<table><th>No. of People</th> <th>No. of Children</th></table> | <table><th>No. of People</th> <th>No. of Children</th></table> <tr> <td>33</td> <td>5</td> <td>35</td> <td>5</td> </tr> 
-
- 
+|<table> <th>No. of People</th> <th>No. of Children</th> <tr>  <td>33</td> <td>5</td> </tr> <tr>  <td>36</td> <td>4</td> </tr> <tr>  <td>39</td> <td>3</td> </tr> <tr>  <td>38</td> <td>2</td> </tr> <tr>  <td>40</td> <td>1</td> </tr> <tr>  <td>38</td> <td>0</td> </tr> <tr> <td> Total: 224 </td> <td></td> </table> | <table> <th>No. of People</th> <th>No. of Children</th> <tr> <td>35</td> <td>5</td> </tr>  <tr> <td>37</td> <td>4</td> </tr> <tr> <td>40</td> <td>3</td> </tr> <tr> <td>35</td> <td>2</td> </tr> <tr> <td>36</td> <td>1</td> </tr> <tr> <td>36</td> <td>0</td> </tr> <tr> <td>Total: 219</td> <td></td>  </table> | 
 
 5. A photographer makes the lowest wage of any occupation, at $3581.53.
 6. There are 502 males and 481 females overall in the dataset, respectively.
