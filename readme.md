@@ -10,7 +10,7 @@ https://www.microsoft.com/store/productId/9NTXR16HNW1T
 
  * Power BI is a cloud-based buisness analytics service for analyzing and visualizing data. 
 
- * It is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into **`coherent`**, **`visually immersive`** and **`interactive insights`**.
+ * It is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into **coherent**, **visually immersive** and **interactive insights**.
 
  * Various data sources are supported by Power BI. Data can be input by reading straight from a database, webpage, or structured files like CSV, XML, and JSON.
 
@@ -29,12 +29,12 @@ https://www.microsoft.com/store/productId/9NTXR16HNW1T
 **"IDZ Digital data analyst.xls"**
 https://github.com/abhilashaojha/IDZ_digital_data_analyst_Dashboard/blob/main/IDZ%20Digital%20data%20analyst.xls
 
-### <span style="font-family: 'Segoe Print';">Description of the dataset:
+## <span style="font-family: 'Segoe Print';">Description of the dataset:
 ***
 
-The dataset contains total of 8 columns and 1000 rows(excluding the heading).
+The dataset contains total of 8 columns and 1000 rows.
 
-**Name of Coulmns:**
+**Name of Columns:**
 
 * First name
 * Last Name
